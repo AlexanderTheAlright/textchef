@@ -1,7 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <style>svg{color:#2b2420}@media (prefers-color-scheme:dark){svg{color:#f3ece6}}</style>
-  <polygon points="11,9 59,9 54,19 6,19" fill="currentColor"/>
-  <polygon points="11,27 32,27 27,37 6,37" fill="currentColor"/>
-  <circle cx="46" cy="32" r="9" fill="#C67A4B"/>
-  <polygon points="11,45 47,45 42,55 6,55" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <circle cx="50" cy="66" r="32" fill="#8FCBFF"/>
+  <circle cx="37.5" cy="63" r="10.5" fill="#ffffff" stroke="#1A2740" stroke-width="4"/>
+  <circle cx="62.5" cy="63" r="10.5" fill="#ffffff" stroke="#1A2740" stroke-width="4"/>
+  <circle cx="37.5" cy="63" r="4.6" fill="#1A2740"/>
+  <circle cx="62.5" cy="63" r="4.6" fill="#1A2740"/>
+  <g transform="rotate(-9 50 36)">
+    <g fill="#1A2740" stroke="#1A2740" stroke-width="6" stroke-linejoin="round">
+      <circle cx="36" cy="21" r="10"/>
+      <circle cx="64" cy="21" r="10"/>
+      <circle cx="50" cy="15" r="12"/>
+      <rect x="30" y="24" width="40" height="15" rx="2"/>
+    </g>
+    <g fill="#FFF8EE">
+      <circle cx="36" cy="21" r="10"/>
+      <circle cx="64" cy="21" r="10"/>
+      <circle cx="50" cy="15" r="12"/>
+      <rect x="30" y="24" width="40" height="15" rx="2"/>
+    </g>
+    <rect x="30" y="30" width="40" height="7" fill="#C67A4B"/>
+  </g>
 </svg>

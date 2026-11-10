@@ -1,7 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <style>svg{color:#2b2420}@media (prefers-color-scheme:dark){svg{color:#f3ece6}}</style>
-  <polygon points="11,9 59,9 54,19 6,19" fill="currentColor"/>
-  <polygon points="11,27 32,27 27,37 6,37" fill="currentColor"/>
-  <circle cx="46" cy="32" r="9" fill="#C67A4B"/>
-  <polygon points="11,45 47,45 42,55 6,55" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <g transform="translate(11.25,25.7) scale(0.775)">
+    <circle cx="50" cy="52" r="40" fill="#8FCBFF"/>
+    <path d="M 46 46.5 Q 50 44.5 54 46.5" stroke="#1A2740" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+    <line x1="23" y1="49" x2="18" y2="50" stroke="#1A2740" stroke-width="2.8" stroke-linecap="round"/>
+    <line x1="77" y1="49" x2="82" y2="50" stroke="#1A2740" stroke-width="2.8" stroke-linecap="round"/>
+    <circle cx="36" cy="48" r="14" fill="#ffffff" stroke="#1A2740" stroke-width="2.8"/>
+    <circle cx="36" cy="48" r="4" fill="#1A2740"/>
+    <circle cx="34.6" cy="46.4" r="1.4" fill="#ffffff"/>
+    <circle cx="64" cy="48" r="14" fill="#ffffff" stroke="#1A2740" stroke-width="2.8"/>
+    <circle cx="64" cy="48" r="4" fill="#1A2740"/>
+    <circle cx="62.6" cy="46.4" r="1.4" fill="#ffffff"/>
+    <path d="M 46.8 65.5 Q 50 67.6 53.2 65.5" stroke="#1A2740" stroke-width="1.7" stroke-linecap="round" fill="none"/>
+  </g>
+  <g transform="rotate(-9 50 36)">
+      <circle cx="37" cy="22" r="9.5" fill="#1A2740" stroke="#1A2740" stroke-width="4.4" stroke-linejoin="round"/>
+      <circle cx="63" cy="22" r="9.5" fill="#1A2740" stroke="#1A2740" stroke-width="4.4" stroke-linejoin="round"/>
+      <circle cx="50" cy="17" r="12" fill="#1A2740" stroke="#1A2740" stroke-width="4.4" stroke-linejoin="round"/>
+      <rect x="31" y="27.5" width="38" height="11" rx="3" fill="#1A2740" stroke="#1A2740" stroke-width="4.4" stroke-linejoin="round"/>
+      <circle cx="37" cy="22" r="9.5" fill="#FFF8EE"/>
+      <circle cx="63" cy="22" r="9.5" fill="#FFF8EE"/>
+      <circle cx="50" cy="17" r="12" fill="#FFF8EE"/>
+      <rect x="31" y="27.5" width="38" height="11" rx="3" fill="#FFF8EE"/>
+      <rect x="31" y="30.5" width="38" height="5" fill="#C67A4B"/>
+  </g>
 </svg>
