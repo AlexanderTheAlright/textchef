@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+node_modules/
+web/out/
+web/.next/
+web/next-env.d.ts
+web/tsconfig.tsbuildinfo
+examples/demo/
+textchef-data/
+examples/make_test_sample.py
+docs/screenshots/contrast-cafe.png

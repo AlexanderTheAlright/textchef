@@ -1,0 +1,32 @@
+label = "Blueprint"
+scheme = "dark"
+font = "ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+font_mono = "ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+
+[colors]
+bg = "#0B2545"
+surface = "#103058"
+surface_alt = "#163C6B"
+border = "#2C5A94"
+text = "#E8F1FF"
+text_muted = "#9DB8DC"
+brand = "#071A33"
+brand_text = "#7FE3F0"
+accent = "#7FE3F0"
+accent_text = "#071A33"
+accent_soft = "#1B4A80"
+mark = "#806A00"
+
+[graph]
+edge = "#3A6CA8"
+label = "#E8F1FF"
+muted = "#2C5A94"
+lift_low = "#7FE3F0"
+lift_high = "#FFC857"
+palette = ["#7FE3F0", "#FFC857", "#A8E6A1", "#FF9B85", "#D4B8FF", "#F6E27F", "#FFB3DE", "#FF7FBF", "#8FF0C8", "#FFD6A5", "#A5C8FF", "#E8A1A1"]
+
+[strings]
+title = "textchef"
+search_placeholder = "Search"
+start = "Enter a query"
+empty = "No results"

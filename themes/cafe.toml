@@ -1,0 +1,32 @@
+label = "Cafe"
+scheme = "light"
+font = "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+font_mono = "ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+
+[colors]
+bg = "#FBF7F4"
+surface = "#FFFFFF"
+surface_alt = "#F3E4D4"
+border = "#E8D5C4"
+text = "#5C3D2E"
+text_muted = "#8A7465"
+brand = "#C67A4B"
+brand_text = "#FFFFFF"
+accent = "#8B5E3C"
+accent_text = "#FFFFFF"
+accent_soft = "#EFE3D6"
+mark = "#FBF0D8"
+
+[graph]
+edge = "#C9A88C"
+label = "#5C3D2E"
+muted = "#E8D5C4"
+lift_low = "#4A5B7A"
+lift_high = "#B24A30"
+palette = ["#C67A4B", "#5F7040", "#4A5B7A", "#9C4F3F", "#8A6D3B", "#7A8B5E", "#B07A5B", "#3F8F8A", "#B24A30", "#128269", "#8B5E3C", "#6B5B95"]
+
+[strings]
+title = "textchef cafe"
+search_placeholder = "Search"
+start = "Enter a query"
+empty = "No results"

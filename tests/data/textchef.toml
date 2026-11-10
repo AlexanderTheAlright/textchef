@@ -1,0 +1,43 @@
+data_dir = "textchef-data"
+
+[corpus]
+path = "sample.csv"
+text = "text"
+id = "post_id"
+id_label = "Post"
+group = "tag"
+group_label = "Tag"
+url = "url"
+credit = "author"
+credit_url = "author_url"
+min_words = 5
+
+[[facet]]
+column = "post_type"
+label = "Post type"
+
+[[facet]]
+column = "date"
+label = "Date"
+type = "date"
+
+[[facet]]
+column = "year"
+label = "Year"
+type = "numeric"
+
+[[facet]]
+column = "score"
+label = "Score"
+type = "numeric"
+
+[model]
+name = "hashing"
+dims = 64
+
+[server]
+port = 8765
+
+[ui]
+theme_light = "cafe"
+theme_dark = "dark"

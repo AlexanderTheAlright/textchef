@@ -1,0 +1,32 @@
+label = "Dark"
+scheme = "dark"
+font = "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+font_mono = "ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+
+[colors]
+bg = "#14161A"
+surface = "#1D2026"
+surface_alt = "#262A32"
+border = "#353A45"
+text = "#E6E8EB"
+text_muted = "#9AA3AF"
+brand = "#1D2026"
+brand_text = "#E6E8EB"
+accent = "#7FB0FF"
+accent_text = "#10131A"
+accent_soft = "#27364D"
+mark = "#5A4A00"
+
+[graph]
+edge = "#454B57"
+label = "#E6E8EB"
+muted = "#353A45"
+lift_low = "#5B9BE6"
+lift_high = "#F08A5D"
+palette = ["#6BAEF5", "#F5A45B", "#6FCF73", "#F07C74", "#B594E0", "#C49A8B", "#F08CCB", "#5FD3B3", "#D6CC4A", "#4FCFD9", "#8C9BFF", "#E0A86B"]
+
+[strings]
+title = "textchef"
+search_placeholder = "Search"
+start = "Enter a query"
+empty = "No results"
