@@ -1,7 +1,8 @@
 import type { ReactNode } from "react";
 import "./globals.css";
 
-export const metadata = { title: "textchef", icons: { icon: "data:," } };
+// the tab icon is app/icon.svg (the file convention)
+export const metadata = { title: "textchef" };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (

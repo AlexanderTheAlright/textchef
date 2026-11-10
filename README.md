@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/logo.svg" width="96" alt="textchef"></p>
+
 <!-- description: to be written by Alex -->
 
 # textchef

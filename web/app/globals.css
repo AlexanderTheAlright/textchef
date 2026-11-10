@@ -45,7 +45,9 @@ h1, h2 { margin: 0; }
   background: var(--brand); color: var(--brand-text);
   border-bottom: 1px solid var(--border);
 }
-.top h1 { font-size: 18px; letter-spacing: 0.02em; }
+.top h1 { display: flex; align-items: center; gap: 8px; font-size: 18px; letter-spacing: 0.02em; }
+.logo-mark { width: 20px; height: 20px; flex: none; fill: currentColor; }
+.logo-mark .logo-point { fill: var(--accent); }
 .top-meta { font-size: 12px; opacity: 0.85; }
 .theme-pick { display: flex; align-items: center; gap: 6px; font-size: 12px; }
 .theme-pick select { color: var(--text); }

@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { Contrast } from "@/components/Contrast";
 import { Filters } from "@/components/Filters";
 import { HitCard } from "@/components/HitCard";
+import { LogoMark } from "@/components/LogoMark";
 import { TopicMap } from "@/components/TopicMap";
 import { TopicPanel } from "@/components/TopicPanel";
 import { api } from "@/lib/api";
@@ -136,7 +137,7 @@ export default function Page() {
   return (
     <div className="app">
       <header className="top">
-        <h1>{theme.strings.title}</h1>
+        <h1><LogoMark />{theme.strings.title}</h1>
         <span className="top-meta">
           {status.n_rows.toLocaleString()} texts · {status.n_topics} topics
         </span>
